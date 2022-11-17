@@ -1,0 +1,12 @@
+.itemContainer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid black;
+    margin-bottom: 1em;
+}
+
+.itemContainer div {
+    display: flex;
+    flex-direction: column;
+}
